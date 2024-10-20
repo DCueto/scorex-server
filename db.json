@@ -1,0 +1,137 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Daniel",
+      "surname": "Cueto",
+      "username": "DCueto",
+      "email": "dcueto14.info@gmail.com",
+      "password": "abcd1234",
+      "preferences": [
+        {
+          "genres": []
+        }
+      ],
+      "following": [],
+      "followers": [],
+      "games_played": [
+        {
+          "gameId": 324997,
+          "title": "Baldur's Gate 3",
+          "metacritic": 97
+        }
+      ],
+      "reviews": []
+    },
+    {
+      "id": 2,
+      "name": "Santi",
+      "surname": "Agudo",
+      "username": "SAgudo",
+      "email": "fdsfsfsf@gmail.com",
+      "password": "abcd1234",
+      "preferences": [
+        {
+          "genres": []
+        }
+      ],
+      "following": [],
+      "followers": [],
+      "games_played": [
+        {
+          "gameId": 324997,
+          "title": "Baldur's Gate 3",
+          "metacritic": 97
+        }
+      ]
+    },
+    {
+      "name": "",
+      "surname": "",
+      "username": "userTest",
+      "email": "usertest@test.com",
+      "password": "$Abcd1234",
+      "preferences": [
+        {
+          "genres": []
+        }
+      ],
+      "following": [],
+      "followers": [],
+      "games_played": [],
+      "id": 3
+    },
+    {
+      "name": "",
+      "surname": "",
+      "username": "userTest2",
+      "email": "user@test.com",
+      "password": "$User1234",
+      "preferences": [
+        {
+          "genres": []
+        }
+      ],
+      "following": [],
+      "followers": [],
+      "games_played": [],
+      "id": 4
+    },
+    {
+      "name": "",
+      "surname": "",
+      "username": "DCueto3",
+      "email": "dcueto14.info@gmail.comf",
+      "password": "$Abcd1234",
+      "preferences": [
+        {
+          "genres": []
+        }
+      ],
+      "following": [],
+      "followers": [],
+      "games_played": [],
+      "id": 5
+    },
+    {
+      "name": "",
+      "surname": "",
+      "username": "DCueto2",
+      "email": "dcueto14.info@gmail.com4",
+      "password": "$Abcd1234",
+      "preferences": [
+        {
+          "genres": []
+        }
+      ],
+      "following": [],
+      "followers": [],
+      "games_played": [],
+      "id": 6
+    }
+  ],
+  "reviews": [
+    {
+      "id": 1,
+      "gameId": 324997,
+      "gameName": "Grand Theft Auto V",
+      "userId": 1,
+      "username": "DCueto",
+      "score": 10,
+      "title": "Masterpiece for the history",
+      "body": "review content"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "comment content",
+      "userId": 1
+    }
+  ],
+  "preferences": [
+    {
+      "genres": []
+    }
+  ]
+}
